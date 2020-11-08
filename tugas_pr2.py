@@ -7,9 +7,8 @@ bilangan3 = int(input())
 
 print("\n")
 
-
-if (bilangan1 > bilangan2) and (bilangan1 > bilangan3):
-    print(f"angka  pertama Lebih besar dari angka ketiga")
+if (bilangan1 > bilangan2 ) and (bilangan1 > bilangan3) :
+    print(f"angka 1 lebih besar dari angka 2 dan 3")
 elif (bilangan2 > bilangan1) and (bilangan2 > bilangan3):
     print(f"angka dua Lebih besar dari angka tiga")
 elif (bilangan3 > bilangan2) and (bilangan3 > bilangan1):

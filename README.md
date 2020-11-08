@@ -14,7 +14,7 @@ Untuk membuat aplikasi yang menentukan bilangan terbesar dari tiga nilai yang cl
 
 <br>
 
-![Tugas praktikum2](latihan_7.PNG)
+![Tugas praktikum2](picture/latihan_7.PNG)
 <br>
 
 Pada repository ini saya akan menjelaskan alur dalam *flowchart* yang telah saya buat. file *flowchart*  bisa dilihat pada link berikut ini :

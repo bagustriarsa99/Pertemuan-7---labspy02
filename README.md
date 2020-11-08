@@ -19,8 +19,7 @@ Untuk membuat aplikasi yang menentukan bilangan terbesar dari tiga nilai yang cl
 
 Pada repository ini saya akan menjelaskan alur dalam *flowchart* yang telah saya buat. file *flowchart*  bisa dilihat pada link berikut ini :
 
-![Tugas_pertemuan_7](Flowchart_Bagus_Triarsa.pdf)
-<br>
+![Tugas_pertemuan_7](Flowchart_Bagus_Triarsa.pdf)<br>
 
 Berikut souce code yang saya tulis untuk menjadikan aplikasi tersebut ([labspy02](tugas_pr2.py)) : 
 <br>
